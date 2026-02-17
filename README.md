@@ -5,7 +5,7 @@
 ### 🚀 Fullstack Developer | 🇱🇰 Sri Lanka
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Passionate+Fullstack+Developer;Building+Meaningful+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Passionate+Fullstack+Developer;SLIIT+Undergraduate;Building+Meaningful+Applications;Always+Learning+New+Technologies;" alt="Typing SVG" />
 </p>
 
 [![GitHub followers](https://img.shields.io/github/followers/naleeshathanushka?style=social)](https://github.com/naleeshathanushka)
