@@ -12,7 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naleesha-webdeveloper/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=vercel&logoColor=white)](https://naleesha-portfolio.vercel.app/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:naleeshathanushka@gmail.com)<br>
-![Profile Views](https://img.shields.io/badge/Profile%20Views-👁-blueviolet?style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=naleeshathanushka&color=blueviolet&style=flat-square&label=Profile+Views)
 </div>
 ---
 
